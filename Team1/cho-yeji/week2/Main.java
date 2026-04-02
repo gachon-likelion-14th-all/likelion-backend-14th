@@ -4,7 +4,6 @@ public class Main {
     for (int i = 1; i <= 5; i++) {
       System.out.println(i + "번째 출력");
     }
-
     for (int i = 1; i <= 10; i++) {
       if (i % 2 == 0) {
         System.out.println(i + "는 짝수입니다.");
